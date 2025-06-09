@@ -1,3 +1,5 @@
+Observação: Deixe igual ta no website
+
 Projeto Jogo Da Memoria:
 Esse projeto foi feito no p5.js para competir no agrinho, onde o jogador tem que resolver um jogo da mémoria até ele cansar, porque quando acaba uma partida incia outra átomatica.
 
